@@ -19,3 +19,7 @@
 ### What features would you find useful in a weather app? Let’s discuss!
 
 **#WebDevelopment #JavaScript #HTML #CSS #WeatherApp #APIs #FrontendDevelopment #Coding #TechProjects**
+
+### 📸 Screenshot
+![Screenshot 2024-06-29 173034](https://github.com/arnavankush30/Weather-App/assets/132573434/2a9455a4-cbfa-4c83-a6d5-77fc5e34aee4)
+
