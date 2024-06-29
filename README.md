@@ -14,7 +14,7 @@
 - Improved skills in creating responsive and interactive web interfaces.
 - Gained expertise in debugging and troubleshooting complex code structures.
 
-### 📢 Check out the live demo [here](https://lnkd.in/gTmTXt8T) and share your feedback! Your suggestions are invaluable.
+### 📢 Check out the live demo [here]( https://arnavankush30.github.io/Weather-App/) and share your feedback! Your suggestions are invaluable.
 
 ### What features would you find useful in a weather app? Let’s discuss!
 
